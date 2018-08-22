@@ -60,3 +60,5 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# definately ignore this:  postgres://otwuahaapnpyec:22b573fca40924e9a440ee2c74b84a8ab05bbfa5511c6641356c4bf847123d21@ec2-50-16-196-138.compute-1.amazonaws.com:5432/d6puhqdfdv0hae
